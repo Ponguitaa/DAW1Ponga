@@ -1,0 +1,3 @@
+﻿  BlackJack.cpp
+D:\Monlau\M5\Practicas\BlackJack\BlackJack_Ponga_GomezI\BlackJack_Ponga_GomezI\BlackJack.cpp(35,15): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  BlackJack_Ponga_GomezI.vcxproj -> D:\Monlau\M5\Practicas\BlackJack\BlackJack_Ponga_GomezI\x64\Debug\BlackJack_Ponga_GomezI.exe
